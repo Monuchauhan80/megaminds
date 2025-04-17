@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RndMxWQJfQg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mchau\\OneDrive\\Documents\\megaminds\\ConstructionApi\\ConstructionApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mchau\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\Mchau\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
